@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esaman1
-- 👀 I’m interested in Android, PHP, JAVA, HTAML, CSS, JS.
+- 👀 I’m interested in Android, PHP, JAVA, HTML, CSS, JS, Swift.
 - 🌱 I’m currently learning Node JS.
 - 💞️ I’m looking to collaborate on Android.
 - 📫 How to reach me GITHUB.
